@@ -1,5 +1,6 @@
 ## Kodeeo Limited is looking for a Frontend Developer (JS/React.js).
 
+
 ### Must have:
 - Solid understanding of JS/ES6+
 - Solid understanding of React.js and related tools
@@ -7,13 +8,17 @@
 - Experience with Functional Component(s) and Hook(s)
 - Experience with at least one state management solution (Redux Toolkit/Zustand/Recoil)
 - Experience with consuming REST API
+- Experience with Git
+
 
 ### Good to have:
-- Ability to Develop UI from scratch
-- Previous experience with Tailwind CSS or MUI 
+- Ability to develop UI from scratch
+- Previous experience with Tailwind CSS or MUI
+
 
 ### Salary:
 - 27,000/= BDT - 35,000/= BDT
+
 
 ### Application & Interview:
 - Send your resume to: info@kodeeo.com
@@ -21,3 +26,7 @@
 - First round: introductory session (~ 30 mins)
 - Second round: coding test (~ 2 hours)
 - Third round: technical interview/coding test discussion (~ 1 hour)
+
+
+
+<sub><sup>Last updated: 16 Nov 2021</sup><sub>
