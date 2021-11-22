@@ -53,7 +53,7 @@ Should be accessible on this route: `/profile/%character_id` and include this in
 ### Recently Visited Profiles
 Show a list of the **last 10 visited profiles** in the footer of all pages.
 
-Please use a Global State Management library ([Zustand](https://github.com/pmndrs/zustand), [Redux](https://redux.js.org/), etc.).
+Please use a Global State Management library ([Zustand](https://github.com/pmndrs/zustand), [Redux](https://redux-toolkit.js.org/), etc.).
 
 ## Requirements
 
